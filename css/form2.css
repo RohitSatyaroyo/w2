@@ -1,0 +1,91 @@
+
+
+.form{
+    background-color:black;
+    height: 490px;
+    width: 300px;
+    margin-left: 500px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    
+}
+.mar{
+    padding-top: 50px;
+    font-size: 30px;
+    color: darkorange;
+    text-decoration: underline;
+}
+.pers{
+    display: flex;
+    flex-direction: column;
+    width: 10px;
+    padding-left: 50px;
+    padding-top: 30px;
+    
+}
+.inputs{
+    color:white;
+}
+.inputs:hover{
+    color:lawngreen;
+}
+.i1{
+    color: red;
+    font-size: medium;
+    width: 190px;
+}
+.i2{
+    color: black;
+    font-size: small;
+    width: 190px;
+}
+.i3{
+    color: gainsboro;
+    font-size: medium   ;
+    width: 190px;
+}
+
+.city{
+    color: red;
+    margin-top: 10px;
+    padding-left: 50px;
+}
+.gen{
+    color: red;
+    padding-left: 50px;
+    padding-top: 10px;
+    
+}
+.check{
+    color: red;
+    margin-top: 10px;
+    padding-left: 50px;
+    
+}
+.opt{
+    padding-top: 6px;
+}
+.c1{
+    color: bisque;
+}
+.c1:hover{
+    color: red;
+}
+.dob{
+    color: red;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+.buttons{
+    padding-left: 90px;
+    padding-top:30px
+    
+
+    
+}
+.sub{
+    background-color: gold;
+    width: 100px;
+    height: 30px;
+   
+}

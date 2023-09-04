@@ -1,0 +1,9 @@
+.i1{
+    width: 70px;
+    margin-left: 200px;
+    height: 80px;
+}
+.im{
+    display: flex;
+    flex-direction: row;
+}
